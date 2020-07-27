@@ -1,3 +1,0 @@
-This is test input from Git Bash.
-
-More text added to test.
