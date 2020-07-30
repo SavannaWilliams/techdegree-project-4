@@ -1,19 +1,22 @@
+// Button color variables
+$btn-blue: #51ddfc;
+$btn-red: #e4757a;
+$btn-purple: #927bc1;
+$btn-green: #63cc82;
+$btn-orange: #fd7856;
+
+// Other color variables
 $white: #fff;
 $light-gray: #ccc;
 $gray: #777;
 $dark-blue: #4da2bb;
-$blue: #51ddfc;
 $light-blue: #7ee6fd;
-$green: #63cc82;
 $light-green: #88d9a0;
 $pink: #ec9fa3;
-$red: #e4757a;
 $light-orange: #fd9f85;
-$orange: #fd7856;
-$purple: #927bc1;
 $light-purple: #deb2ee;
 $light-teal: #80e8d1;
 $teal: #58e1c1;
 
 // Media query variables
-$mq-tablet: 768px;
+$breakpoint-mobile: 768px;
