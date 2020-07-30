@@ -5,7 +5,7 @@
 }
 
 @mixin btn-transition {
-    transition: background-color .6s ease-in;
+    transition: background-color .5s ease-in;
 }
 
 @mixin hover-color($color) {
